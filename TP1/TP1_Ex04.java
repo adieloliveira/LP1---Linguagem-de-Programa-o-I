@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Adiek
+ * @author Adiel
  */
 public class TP01_Ex04 {
     public static void main(String[] args) {
